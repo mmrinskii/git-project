@@ -6,7 +6,7 @@ public class MathodsMain {
 		Plane plane = new Plane();
 		plane.title = "boeing 787";
 		plane.capacity = 200;
-		plane.speed = 1000;
+		plane.speed = 1000;//git test
 		
 		Plane plane2 = new Plane();
 		plane.title = "boeing 787";

@@ -7,8 +7,11 @@ public class FirstSample
 {
    public static void main(String[] args)
    {
+testing merging
       System.out.println("We will not use 'Hello, World! We will use hello world Maxim, Hello branch Master'");
       double x = 10000.0 / 3.0;
       System.out.printf("%8.2f", x);
+testing merging
    }
 }
+testing of merging

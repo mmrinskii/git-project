@@ -12,7 +12,7 @@ public class InputTest
       Scanner in = new Scanner(System.in);
 
       // get first input
-      System.out.print("What is your name? ");
+      System.out.print("What is your name? Test ");
       String name = in.nextLine();
 
       // get second input

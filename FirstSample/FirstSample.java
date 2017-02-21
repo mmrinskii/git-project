@@ -9,6 +9,7 @@ public class FirstSample
    {
       System.out.println("We will not use 'Hello, World! We will use hello world Maxim, Hello branch Master'");
       double x = 10000.0 / 3.0;
+//master commit
       System.out.printf("%8.2f", x);
    }
 }

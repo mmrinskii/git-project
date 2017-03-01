@@ -1,8 +1,9 @@
 package object_oriented;
-//testing branches
+//testing branches ddsd
+//sdsdsd
 public class Plane {
 	public String title;
-	public int capacity;
+	public int capac1ty1;
 	public int speed = 7;
 	
 	static String object_name = Object.class.getName();

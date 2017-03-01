@@ -6,7 +6,8 @@ public class Plane {
 	public int speed = 7;
 	
 	static String object_name = Object.class.getName();
-	//this trainee/test
+	
+
 		public int difference() {
 			return speed - capacity;
 		}
